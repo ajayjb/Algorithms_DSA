@@ -1,6 +1,6 @@
 package com.ajay;
 
-public class CielOfNumber {
+public class FloorOfNumber {
     public static void main(String[] args) {
         int[] arr = {2,5,7,18,25,50,59,65,99,114};
         System.out.println(floorBinary(arr, 10));
