@@ -2,7 +2,7 @@ package com.ajay.RecusionLevel1;
 
 public class Nto1 {
     public static void main(String[] args) {
-        System.out.println(fact(5));
+        printRev(20);
     }
     static void print(int n){
         if(n==0){
