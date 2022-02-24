@@ -1,4 +1,4 @@
-package com.ajay;
+package com.ajay.General;
 
 import java.util.Arrays;
 

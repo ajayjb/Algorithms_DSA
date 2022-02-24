@@ -1,4 +1,4 @@
-package com.ajay;
+package com.ajay.General;
 // Leetcode 14 Longest common prefix
 public class Commonprefix {
     public static void main(String[] args) {

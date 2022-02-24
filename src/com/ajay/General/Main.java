@@ -1,4 +1,4 @@
-package com.ajay;
+package com.ajay.General;
 
 public class Main {
 

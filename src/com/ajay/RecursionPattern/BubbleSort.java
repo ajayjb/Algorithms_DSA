@@ -1,7 +1,5 @@
 package com.ajay.RecursionPattern;
 
-import com.ajay.Array;
-
 import java.util.Arrays;
 
 public class BubbleSort {
